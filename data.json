@@ -125,6 +125,30 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
+      "question": "Andi ikut sholat berjamaah subuh, pada rokaat pertama karena ngantuk tertidur sehingga tidak terdengar imam takbir untuk ruku sehingga andi kaget. Bagaimana sholat andi? ",
+      "correct_answer": "Batal",
+      "incorrect_answers": [
+        "Tidak batal wudlunya",
+        "Tidak Batal SHolatnya karena ngantuknya sebentar",
+        "Batal sholatnya karena kaget"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Ahor tangannya tertusuk jarum, ketika wudlu darah keluar terus dia bersihkan sampai selesai wudlu, ketika sholat darah tadi kembali keluar, bagaimana sholat ahor?",
+      "correct_answer": "Sah",
+      "incorrect_answers": [
+        "Tidak sah",
+        "Tidak sah karena berdarah",
+        "Sah darah tidak membatalkan sholat"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
       "question": "Dabag fungsinya untuk mensucikan?",
       "correct_answer": "Mensucikan bangkai kulit binantang",
       "incorrect_answers": [
