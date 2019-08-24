@@ -185,6 +185,54 @@
       "category": "General Knowledge",
       "type": "multiple",
       "difficulty": "easy",
+      "question": "Emen mendaki gunung mendadak ingin buang air besar padahal tidak ada sungai air cuma untuk minum, bagaimana cara bersucinya?",
+      "correct_answer": "Istinja dengan batu",
+      "incorrect_answers": [
+        "Pakai dedaunan",
+        "Pakai Air minum",
+        "Pakai tanah"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Ini adalah batal wudlu, kecuali?",
+      "correct_answer": "Buang Najis",
+      "incorrect_answers": [
+        "Bersentuhan kulit lawan jenis",
+        "Gila",
+        "Buang Hajat"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Tetangga uman kambingnya mati, Mana pernyataan dibawah ini yang benar",
+      "correct_answer": "Kulitnya bisa dimanfaatkan disucikan dengan disamak",
+      "incorrect_answers": [
+        "Kulitnya tidak bisa diambil karena bangkai",
+        "Kulitnya bisa dimakan",
+        "Bangkainya bisa dijual"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Aisyah berangkat ke mesjid dijalan dilembar tanah basah oleh anak nakal sehingga bajunya kotor",
+      "correct_answer": "Aisyah tidak perlu ganti baju karena tanah suci",
+      "incorrect_answers": [
+        "Aisyah tidak harus mengganti bajunya karena tanah najis",
+        "Aisyah tidak harus ganti baju karena kena tanah basah",
+        "Aisyah tidak harus ganti baju karena kenah tanah kotor"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
       "question": "Najis Mugaladzah adalah ?",
       "correct_answer": "Kotoran Anjing ",
       "incorrect_answers": [
